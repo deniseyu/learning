@@ -6,7 +6,9 @@ The books and workshops that I have *invested* my Learning &amp; Development bud
 ## Management/Leadership
 
 * The Manager's Path, Camille Fournier
+* The Making of a Manager, Julie Zhuo
 * Staff Engineer, Will Larson
+* An Elegant Puzzle, Will Larson
 * Managing Humans, Michael Lopp
 * Resilient Management, Lara Hogan
 * Peopleware: Productive Projects and Teams, Tom DeMarco & Timothy Lister
@@ -19,8 +21,8 @@ The books and workshops that I have *invested* my Learning &amp; Development bud
 * Dare to Lead, Brene Brown
 * The Coaching Habit, Michael Bungay Stanier
 * 97 Things Every Engineering Manager Should Know, Camille Fournier
-* The Making of a Manager, Julie Zhuo
 * Talking with Tech Leads, Patrick Kua
+* The Retrospective Handbook, Patrick Kua
 * Making Work Visible, Dominica DeGrande
 * The Innovator's Dilemma, Clayton Christenson
 * Building Great Software Engineering Teams, Joshua Tyler
@@ -46,6 +48,7 @@ The books and workshops that I have *invested* my Learning &amp; Development bud
 
 ## Reliability/Infrastructure/Databases
 
+* Designing Data-Intensive Applications, Martin Kleppmann
 * Implementing Service Level Objectives, Alex Hidalgo
 * The Challenger Launch Decision, Diane Vaughn
 * The Checklist Manifesto, Atul Gawande
