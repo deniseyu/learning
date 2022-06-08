@@ -37,6 +37,8 @@ The books and workshops that I have *invested* my Learning &amp; Development bud
 * Design Patterns, Gamma, Helm, Johnson, Vissides
 * Designing Interfaces, Jennifer Tidwell
 * Explore It! Reduce Risk and Increase Confidence with Exploratory Testing, Elisabeth Hendrickson
+* Practical Object-Oriented Design in Ruby, Sandi Metz
+* 99 Bottles of OOP, Sandi Metz & Katrina Owen
 
 ## Data Science
 
