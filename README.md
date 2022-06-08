@@ -46,23 +46,29 @@ The books and workshops that I have *invested* my Learning &amp; Development bud
 * Algorithms of Oppression, Safiya Umoja
 * Weapons of Math Destruction, Cathy O'Neil
 
-## Reliability/Infrastructure/Databases
+## SRE/DevOps/Reliability - focus on process
 
-* Designing Data-Intensive Applications, Martin Kleppmann
-* Implementing Service Level Objectives, Alex Hidalgo
+* Site Reliability Engineering, Beyer, Jones, Petoff, Murphy
 * The Challenger Launch Decision, Diane Vaughn
 * The Checklist Manifesto, Atul Gawande
-* Site Reliability Engineering, Beyer, Jones, Petoff, Murphy
-* Designing Distributed Systems, Brendan Burns
+* Implementing Service Level Objectives, Alex Hidalgo
 * Release It! Michael T. Nygard
-* Production-Ready Microservices, Susan Fowler
-* BPF Performance Tools, Brendan Gregg
-* Cloud Native Patterns, Cornelia Davis
-* Database Internals, Alex Petrov
-* Distributed Algorithms, Nancy Lynch
 * Seeking SRE, David Blank-Edelman
+* Cloud Native Patterns, Cornelia Davis
 * The Art of Scalability, Martin Abbott
 * Thinking in Systems, Donella Meadows
+* The Phoenix Project, Gene Kim
+* The Unicorn Project, Gene Kim
+* The DevOps Handbook, Gene Kim
+
+## Infrastructure/Databases - focus on tech/tools
+
+* Designing Data-Intensive Applications, Martin Kleppmann
+* Designing Distributed Systems, Brendan Burns
+* Production-Ready Microservices, Susan Fowler
+* BPF Performance Tools, Brendan Gregg
+* Database Internals, Alex Petrov
+* Distributed Algorithms, Nancy Lynch
 
 ## Game Development/Design
 
